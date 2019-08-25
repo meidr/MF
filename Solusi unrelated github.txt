@@ -1,0 +1,8 @@
+kalau ada masalah unrelated history github
+
+git pull --allow-unrelated-histories
+
+terus lakukan
+
+git add .
+git push origin master
