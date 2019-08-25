@@ -6,3 +6,7 @@ terus lakukan
 
 git add .
 git push origin master
+
+
+sumber :
+https://github.community/t5/How-to-use-Git-and-GitHub/How-to-deal-with-quot-refusing-to-merge-unrelated-histories-quot/td-p/12619
