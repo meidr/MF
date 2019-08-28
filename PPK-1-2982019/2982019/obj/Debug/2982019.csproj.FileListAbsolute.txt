@@ -1,0 +1,7 @@
+C:\Users\mfahmialif\source\repos\2982019\2982019\bin\Debug\2982019.exe.config
+C:\Users\mfahmialif\source\repos\2982019\2982019\bin\Debug\2982019.exe
+C:\Users\mfahmialif\source\repos\2982019\2982019\bin\Debug\2982019.pdb
+C:\Users\mfahmialif\source\repos\2982019\2982019\obj\Debug\2982019.csprojAssemblyReference.cache
+C:\Users\mfahmialif\source\repos\2982019\2982019\obj\Debug\2982019.csproj.CoreCompileInputs.cache
+C:\Users\mfahmialif\source\repos\2982019\2982019\obj\Debug\2982019.exe
+C:\Users\mfahmialif\source\repos\2982019\2982019\obj\Debug\2982019.pdb
