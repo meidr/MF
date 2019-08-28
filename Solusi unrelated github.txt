@@ -1,6 +1,8 @@
 kalau ada masalah unrelated history github
 
-git pull --allow-unrelated-histories
+git pull <branch> --allow-unrelated-histories
+
+-> contoh : git pull origin master --allow-unrelated-histories
 
 terus lakukan
 
